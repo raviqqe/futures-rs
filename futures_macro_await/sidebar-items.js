@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["await","Ye Olde Await Macro"],["await_item","Await an item from the stream Basically it does same as `await` macro, but for streams"],["stream_yield",""]]});
